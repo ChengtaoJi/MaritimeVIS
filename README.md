@@ -18,4 +18,6 @@ http://www.zshaitu.com/SDKyq
 
 https://www.aishub.net/api
 
+http://openapi.ehanghai.cn/#/
 
+https://www.aishub.net/api
