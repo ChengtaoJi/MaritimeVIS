@@ -13,3 +13,6 @@ https://www.digitraffic.fi/en/marine-traffic/
 https://github.com/k3s4/marinetraffic_api
 
 https://www.marinetraffic.com/en/ais-api-services/documentation/
+
+http://www.zshaitu.com/SDKyq
+
