@@ -16,3 +16,6 @@ https://www.marinetraffic.com/en/ais-api-services/documentation/
 
 http://www.zshaitu.com/SDKyq
 
+https://www.aishub.net/api
+
+
